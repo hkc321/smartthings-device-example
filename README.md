@@ -1,5 +1,7 @@
 # smartthings-device-example
-블로그에서 작성한 글의 시스템 구조에서 가상 월패드와 가상 온도조절기의 예시 코드입니다.<br/><br/><br/>
+블로그에서 작성한 글의 시스템 구조에서 가상 월패드와 가상 온도조절기의 예시 코드입니다.<br/>
+<a href="https://medium.com/@hello-every-one/보일러-온도조절기에-iot-기능-추가하기-ew11-smartthings-cfca084e1734?postPublishedType=repub">보러가기</a>
+<br/><br/>
 <img width="784" height="442" alt="Image" src="https://github.com/user-attachments/assets/273023be-278e-4259-a820-eeca3aae6fb4" />
 
 ## 사전 준비
